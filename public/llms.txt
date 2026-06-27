@@ -1,0 +1,87 @@
+# ‏חנות טלפונים — Generative Engine Optimization Map
+
+> A phone store selling mobile devices. The business focuses on retail of smartphones and related products.
+
+---
+
+## Pages
+
+### בית
+https://-54558d88.zappy5.app
+מחפשים חנות מוצרי אלקטרוניקה מובילה? בואו להתרשם ממגוון סמארטפונים ואביזרים נלווים במחירים משתלמים. כנסו עכשיו לחוויית קנייה שאין שנייה לה!
+
+### שירותים
+https://-54558d88.zappy5.app/services
+זקוקים לשירות מקצועי למכשיר הנייד? אנו מציעים תיקונים, התאמות והדרכה ממומחי אלקטרוניקה. מהרו לתאם שירות עוד היום ולהחזיר את הטלפון לחיים!
+
+### אודות
+https://-54558d88.zappy5.app/about
+רוצים לדעת מי עומד מאחורי חנות האלקטרוניקה האהובה? גלו את החזון, הצוות והמחויבות שלנו לאיכות. הצטרפו למשפחת הלקוחות המרוצים שלנו!
+
+### צור קשר
+https://-54558d88.zappy5.app/contact
+יש שאלות על מכשירים ניידים? פנו אלינו עכשיו לקבלת ייעוץ אישי ומקצועי מחנות האלקטרוניקה הקרובה אליכם. אנחנו כאן כדי לעזור בכל נושא!
+
+### Products
+https://-54558d88.zappy5.app/products
+המוצרים שלנו - ‏חנות טלפונים
+
+### Product Detail
+https://-54558d88.zappy5.app/product/:slug
+פרטי המוצר - ‏חנות טלפונים
+
+### Category
+https://-54558d88.zappy5.app/category/:slug
+מוצרים - ‏חנות טלפונים
+
+### תודה על פנייתך
+https://-54558d88.zappy5.app/thank-you
+‏חנות טלפונים - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-54558d88.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-54558d88.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-54558d88.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ‏חנות טלפונים
+A phone store selling mobile devices. The business focuses on retail of smartphones and related products.
+
+## Services/Products
+- מכירת טלפונים
+
+## Target Audience
+- סטודנטים מחפשי טלפונים
+- חובבי טכנולוגיה
+- מקצוענים עסוקים
+
+## Industry
+Electronics Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-54558d88.zappy5.app/sitemap.xml
+- Robots: https://-54558d88.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-54558d88.zappy5.app/llms-full.txt
+- Products (JSON): https://-54558d88.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-54558d88.zappy5.app/product-feed.xml
