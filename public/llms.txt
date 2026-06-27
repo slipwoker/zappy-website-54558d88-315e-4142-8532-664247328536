@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://-54558d88.zappy5.app
+https://example.com
 מחפשים חנות מוצרי אלקטרוניקה מובילה? בואו להתרשם ממגוון סמארטפונים ואביזרים נלווים במחירים משתלמים. כנסו עכשיו לחוויית קנייה שאין שנייה לה!
 
 ### שירותים
-https://-54558d88.zappy5.app/services
+https://example.com/services
 זקוקים לשירות מקצועי למכשיר הנייד? אנו מציעים תיקונים, התאמות והדרכה ממומחי אלקטרוניקה. מהרו לתאם שירות עוד היום ולהחזיר את הטלפון לחיים!
 
 ### אודות
-https://-54558d88.zappy5.app/about
+https://example.com/about
 רוצים לדעת מי עומד מאחורי חנות האלקטרוניקה האהובה? גלו את החזון, הצוות והמחויבות שלנו לאיכות. הצטרפו למשפחת הלקוחות המרוצים שלנו!
 
 ### צור קשר
-https://-54558d88.zappy5.app/contact
+https://example.com/contact
 יש שאלות על מכשירים ניידים? פנו אלינו עכשיו לקבלת ייעוץ אישי ומקצועי מחנות האלקטרוניקה הקרובה אליכם. אנחנו כאן כדי לעזור בכל נושא!
 
 ### Products
-https://-54558d88.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ‏חנות טלפונים
 
 ### Product Detail
-https://-54558d88.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ‏חנות טלפונים
 
 ### Category
-https://-54558d88.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ‏חנות טלפונים
 
 ### תודה על פנייתך
-https://-54558d88.zappy5.app/thank-you
+https://example.com/thank-you
 ‏חנות טלפונים - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-54558d88.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-54558d88.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-54558d88.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -80,8 +80,8 @@ Electronics Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-54558d88.zappy5.app/sitemap.xml
-- Robots: https://-54558d88.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-54558d88.zappy5.app/llms-full.txt
-- Products (JSON): https://-54558d88.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-54558d88.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
